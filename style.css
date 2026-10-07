@@ -39,19 +39,6 @@ p {
 }
 
 nav {
-    margin-top: 20px;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    background-color: #271ca4;
-    padding: 10px 15px;
-    border-radius: 8px;
-    margin: 5px;
-    display: inline-block;
-
-}
 
 nav a:hover {
     background-color: #271ca4;
@@ -110,6 +97,21 @@ button{
      border: none;
      padding: 10px 15px;
      border-radius: 8px;
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    color:#052036;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+nav {
      cursor: pointer;
 }
 button:hover {
